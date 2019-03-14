@@ -6,6 +6,10 @@ video_id: PoW8g67XNxA
 web_editor: 4FuKfd-LJ
 
 contributions:
+  - title: "Pi digits in different bases"
+    author:
+      name: "Maksymilian Kozdęba"
+    url: "https://editor.p5js.org/kMax/sketches/oWM25OfWK"
   - title: "Fast p5 implementation"
     author:
       name: "Matei Adriel"
